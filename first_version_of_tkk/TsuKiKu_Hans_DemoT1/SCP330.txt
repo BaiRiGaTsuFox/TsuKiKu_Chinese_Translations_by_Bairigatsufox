@@ -1,0 +1,40 @@
+糖果
+<b><color=#C800FF>\uf75b 彩</color><color=#D522BF>虹</color><color=#E3447F>糖</color><color=#F1663F>果</color></b>
+\n\n\n<i><size=75%>这糖......怎么是软的</i></size>
+\n\n\n\n\n<b><size=200%><color=#FFC3C3>治疗丨立即恢复15HP</color></b>\n<b><color=#ADFFBD>加成丨获得20AHP和<i>精神充沛</i></color></b>\n<b><color=#ADFFBD>加成丨给予永久减伤</color></b></size>
+<b><color=#FBFF00>🍋 黄</color><color=#FCFF3F>色</color><color=#FDFF7F>糖</color><color=#FEFFBF>果</color></b>
+\n\n\n<i><size=75%>什么玩意搞这么酸</i></size>
+\n\n\n\n\n<b><size=200%><color=#ADFFBD>加成丨移动速度增快并不消耗体力</i></color></b></size>
+<b><color=#BB00FF>🍇 紫</color><color=#CC3FFF>色</color><color=#DD7FFF>糖</color><color=#EEBFFF>果</color></b>
+\n\n\n<i><size=75%>这葡萄味......我超! 冰!</i></size>
+\n\n\n\n\n<b><size=200%><color=#ADFFBD>加成丨一定时间内获得伤害减免</i></color></b>\n<b><color=#FFC3C3>治疗丨10秒内恢复15HP</color></b></size>
+<b><color=#FF0000>🍒 红</color><color=#FF3F3F>色</color><color=#FF7F7F>糖</color><color=#FFBFBF>果</color></b>
+\n\n\n<i><size=75%>一股浓烈的樱桃气味充满了房间，这有点..太劲了</i></size>
+\n\n\n\n\n<b><size=200%><color=#FFC3C3>治疗丨5秒内恢复45HP</color></b></size>
+<b><color=#116600>🌿 绿</color><color=#4C8C3F>色</color><color=#88B27F>糖</color><color=#C3D8BF>果</color></b>
+\n\n\n<i><size=75%>这是中药吗</i></size>
+\n\n\n\n\n<b><size=200%><color=#FFC3C3>治疗丨80秒内恢复120HP</color></b>\n<b><color=#ADFFBD>加成丨给予30秒减伤以及免除负面效果</color></b></size>
+<b><color=#0AC2FF>🍬 蓝</color><color=#47D1FF>色</color><color=#84E0FF>糖</color><color=#C1EFFF>果</color></b>
+\n\n\n<i><size=75%>棉花糖.......棉花糖人</i></size>
+\n\n\n\n\n<b><size=200%><color=#ADFFBD>加成丨给予30AHP</color></b>
+<b><color=#FFB3F9>🍓 粉</color><color=#FFC6FA>色</color><color=#FFD9FC>糖</color><color=#FFECFD>果</color></b>
+\n\n\n<i><size=75%>这款糖没有差评哦!</i></size>
+\n\n\n\n\n<b><size=200%><color=#FF8888>伤害丨立即爆炸</color></b></szie>
+橘色糖果
+不给糖就捣蛋？
+​
+白色糖果
+不给糖就捣蛋？
+​
+灰色糖果
+不给糖就捣蛋？
+​
+<b><i>黑色糖果</b></i>
+\n\n\n<i><size=75%>赌狗时间!</i></size>
+\n\n\n\n\n<b><size=200%><color=#FF8888>未知丨随机触发一个效果</color></b></size>
+棕色糖果
+不给糖就捣蛋？
+​
+恶魔糖果
+不给糖就捣蛋？
+​

@@ -1,0 +1,30 @@
+ <b>与 其 他 <color=#FF0000FF>S C P</color> 合 作 \n <color=#FF0000FF>消 灭 所 有 人 类</color>｜<color=#FF0000FF>阻 止 人 类 逃 离</color> \n项目等级 <color=#FFD700>Euclid</color> - 雕像 -</b>
+ <b>逃 离 <color=#0096FFFF>S I T E - 0 2</color> \n 与<color=#008F1CFF>混沌分裂者</color>合作｜<color=#FF8000FF>尽量避开其他事物</color> \n人员等级 <color=#FF8000FF>D</color></b>
+ <b>你 很 快 就 能 重 生 \n 上 帝 视 角｜纵 观 全 局 \n<color=#AB6BFFFF></b>
+ <b>与 其 他 <color=#FF0000FF>S C P</color> 合 作 \n <color=#FF0000FF>消 灭 所 有 人 类</color>｜<color=#FF0000FF>阻 止 人 类 逃 离</color> \n项目等级 <color=#FF3333>Keter</color> - 恐怖老人 -</b>
+ <b>协 助 <color=#FFFF7CFF>科 学 家</color> 逃 离 <color=#0096FFFF>S I T E - 0 2</color> \n <color=#003DCAFF>服从上级</color>｜<color=#00D9FFFF>消灭其他事物</color>｜<color=#70C3FFFF>指挥部下</color> \n成员职位 <color=#00AFFFFF>收容专家</color></b>
+ <b>与 其 他 <color=#FF0000FF>S C P</color> 合 作 \n<color=#FF0000FF>消 灭 所 有 人 类</color>｜<color=#FF0000FF>阻 止 人 类 逃 离</color> \n项目等级 <color=#FFD700>Euclid</color> - 疫医 -</b>
+ <b>逃 离 <color=#0096FFFF>S I T E - 0 2</color> \n 与 <color=#0096FFFF>M T F</color> 合作｜<color=#FFFF7CFF>避开其他事物</color> \n人员等级 <color=#FFFF7CFF>B</color></b>
+ <b>与 其 他 <color=#FF0000FF>S C P</color> 合 作 \n <color=#FF0000FF>消 灭 所 有 人 类</color>｜<color=#FF0000FF>阻 止 人 类 逃 离</color>\n项目等级 <color=#FFD700>Euclid</color> - 旧AI -</b>
+ <b>协 助 <color=#FF8000FF>D 级 人 员</color> 逃 离 <color=#0096FFFF>S I T E - 0 2</color> \n <color=#559101FF>消灭其他事物</color>\n兵种职位 <color=#559101FF>征召兵</color></b>
+ <b>与 其 他 <color=#FF0000FF>S C P</color> 合 作 \n <color=#FF0000FF>消 灭 所 有 人 类</color>｜<color=#FF0000FF>阻 止 人 类 逃 离</color>\n项目等级 <color=#FFD700>Euclid</color> - 羞涩的人 -</b>
+ <b>与 其 他 <color=#FF0000FF>S C P</color> 合 作 \n <color=#FF0000FF>消 灭 所 有 人 类</color>｜<color=#FF0000FF>阻 止 人 类 逃 离</color>\n项目等级 <color=#556278>Unknown</color> - 被治愈者 -</b>
+ <b>协 助 <color=#FFFF7CFF>科 学 家</color> 逃 离 <color=#0096FFFF>S I T E - 0 2</color> \n <color=#003DCAFF>服从上级</color>｜<color=#0096FFFF>消灭其他事物</color>｜<color=#70C3FFFF>指挥部下</color>\n成员职位 <color=#0096FFFF>中士</color></b>
+ <b>协 助 <color=#FFFF7CFF>科 学 家</color> 逃 离 <color=#0096FFFF>S I T E - 0 2</color> \n <color=#003DCAFF>消灭其他事物</color>｜<color=#70C3FFFF>指挥你的部下</color>\n成员职位 <color=#003DCAFF>指挥官</color></b>
+ <b>协 助 <color=#FFFF7CFF>科 学 家</color> 逃 离 <color=#0096FFFF>S I T E - 0 2</color> \n<color=#70C3FFFF>消灭其他事物</color>｜<color=#003DCAFF>服从上级指挥</color> \n成员职位 <color=#70C3FFFF>列兵</color></b>
+ <b>遵 循 游 戏 提 示 完 成 您 的 使 命 \n <color=#FF00B0FF>常规对局未被使用的角色</color></b>
+ <b>协 助 <color=#FFFF7CFF>科 学 家</color> 逃 离 <color=#0096FFFF>S I T E - 0 2</color> \n 与 <color=#0096FFFF>M T F</color> 合作｜<color=#556278FF>消灭其他事物</color> \n人员等级 <color=#556278FF>C</color></b>
+ <b>与 其 他 <color=#FF0000FF>S C P</color> 合 作 \n <color=#FF0000FF>消 灭 所 有 人 类</color>｜<color=#FF0000FF>阻 止 人 类 逃 离</color>\n项目等级 <color=#FF0000>Keter</color> - 千喉之兽 -</b>
+ <b>与 其 他 <color=#FF0000FF>S C P</color> 合 作 \n <color=#FF0000FF>消 灭 所 有 人 类</color>｜<color=#FF0000FF>阻 止 人 类 逃 离</color>\n项目等级 <color=#FF0000>Keter</color> - 千喉之兽 -</b>
+ <b>协 助 <color=#FF8000FF>D 级 人 员</color> 逃 离 <color=#0096FFFF>S I T E - 0 2</color> \n <color=#008F1CFF>消灭其他事物</color> \n兵种职位 <color=#008F1CFF>步枪手</color></b>
+ <b>协 助 <color=#FF8000FF>D 级 人 员</color> 逃 离 <color=#0096FFFF>S I T E - 0 2</color> \n <color=#006826FF>消灭其他事物</color> \n兵种职位 <color=#066328FF>掠夺者</color></b>
+ <b>协 助 <color=#FF8000FF>D 级 人 员</color> 逃 离 <color=#0096FFFF>S I T E - 0 2</color> \n <color=#0D7D35FF>消灭其他事物</color> \n兵种职位 <color=#15853DFF>压制者</color></b>
+ <b><color=#FFFFFF4D> 监 管 局 内 所 有 玩 家 \n <color=#00FFFF4D>特 殊 观 战 位</color>｜<color=#00FFFF4D>你 不 会 重 生</color></b>
+ <b> 导 演 模 式 </b>
+ <b>与 其 他 <color=#FF0000FF>S C P</color> 合 作 \n <color=#FF0000FF>消 灭 所 有 人 类</color>｜<color=#FF0000FF>阻 止 人 类 逃 离</color>\n项目等级<color=#FFD700> Euclid </color>- 是不是太冷淡了点? -</b>
+ <b>与 你 的 <color=#FF59CAFF>族 群</color> 配 合 \n <color=#FF59CAFF>消 灭 所 有 事 物</color></b>
+ <b>与 你 的 <color=#FF59CAFF>族 群</color> 配 合 \n <color=#FF59CAFF>消 灭 所 有 事 物</color></b>
+-
+ <b>与 其 他 <color=#FF0000FF>S C P</color> 合 作 \n <color=#FF0000FF>消 灭 所 有 人 类</color>｜<color=#FF0000FF>阻 止 人 类 逃 离</color></b>
+ <b>协 助 <color=#FFFF7CFF>科 学 家</color> 逃 离 <color=#0096FFFF>S I T E - 0 2</color> \n 与 <color=#0096FFFF>M T F</color> 合作｜<color=#556278FF>消灭其他事物</color></b>
+ <b>协 助 <color=#FF8000FF>D 级 人 员</color> 逃 离 <color=#0096FFFF>S I T E - 0 2</color> \n <color=#006826FF>消灭其他事物</color></b>

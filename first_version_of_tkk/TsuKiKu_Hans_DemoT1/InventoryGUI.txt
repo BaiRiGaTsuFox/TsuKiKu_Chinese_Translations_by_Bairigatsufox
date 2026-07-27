@@ -1,0 +1,30 @@
+<b>弹药</b> [loaded]/[capacity] [type]
+伤害 \uf05b
+射速 \uf625
+腰射精度 \uf05b
+瞄准精度 \uf05b
+重量 \uf5cd
+长度 \uf178
+丢弃:
+头盔减伤 \uf007
+背甲减伤 \uf007
+耐力消耗 \uf70c
+移动速度 \uf70c
+物品上限:
+弹药上限:
+<b>共计</b>[amount]
+护甲穿透
+奔跑时射击精度
+按下 [key] 键发出奸笑声
+<b>剩余电量 [percent]</b>
+<b>剩余弹药 [rem]</b>
+<color=#86AAFE>按</color><color=#92A8F4>住</color> [primary] <color=#9EA6EA>使</color><color=#AAA5E0>用</color><color=#B6A3D6>快</color><color=#C2A2CC>速</color><color=#CEA0C2>射</color><color=#DA9EB8>击</color><color=#E69DAE>模</color><color=#F29BA4>式</color>
+<color=#86AAFE>按</color><color=#92A8F4>住</color> [secondary] <color=#9EA6EA>使</color><color=#AAA5E0>用</color><color=#B6A3D6>高</color><color=#C2A2CC>能</color><color=#CEA0C2>蓄</color><color=#DA9EB8>力</color><color=#E69DAE>模</color><color=#F29BA4>式</color>
+按下 <b>[key]</b> 切换射击模式
+按下 <b>[key]</b> 进行攻击
+按住 <b>[key]</b> 进行充能
+<color=#86AAFE>放</color><color=#93A8F2>电</color><color=#A0A6E7>已</color><color=#AEA4DC>就</color><color=#BBA2D1>绪</color><color=#C8A1C6>，</color><color=#D69FBB>按</color> [primary] <color=#E39DB0>发</color><color=#F09BA5>射</color>
+<color=#FF0000>此</color><color=#FF1717>武</color><color=#FF2E2E>器</color><color=#FF4545>已</color><color=#FF5C5C>损</color><color=#FF7373>坏</color><color=#FF8B8B>，</color><color=#FFA2A2>功</color><color=#FFB9B9>能</color><color=#FFD0D0>受</color><color=#FFE7E7>限</color>
+<color=#D400FF>S</color><color=#D509FF>C</color><color=#D713FF>P</color><color=#D81DFF>-</color><color=#DA27FF>1</color><color=#DC31FF>2</color><color=#DD3AFF>7</color><color=#DF44FF>的</color><color=#E14EFF>力</color><color=#E258FF>量</color><color=#E462FF>会</color><color=#E66BFF>随</color><color=#E775FF>着</color><color=#E97FFF>您</color><color=#EB89FF>与</color><color=#EC93FF>它</color><color=#EE9CFF>联</color><color=#F0A6FF>结</color><color=#F1B0FF>的</color><color=#F3BAFF>加</color><color=#F5C4FF>深</color><color=#F6CDFF>而</color><color=#F8D7FF>变</color><color=#FAE1FF>得</color><color=#FBEBFF>更</color><color=#FDF5FF>强</color>
+使用$方向键$或$[up], [left], [down], 以及[right]键$来控制蛇的移动
+冲刺速度

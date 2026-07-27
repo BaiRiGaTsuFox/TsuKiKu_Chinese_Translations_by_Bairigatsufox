@@ -1,0 +1,101 @@
+<b><color=#F3C7FF>游</color><color=#F6D5FF>戏</color><color=#F9E3FF>资</color><color=#FCF1FF>讯</color></b>
+<b><color=#F3C7FF>社</color><color=#F6D5FF>区</color><color=#F9E3FF>列</color><color=#FCF1FF>表</color></b>
+<b><color=#F3C7FF>游</color><color=#F6D5FF>戏</color><color=#F9E3FF>设</color><color=#FCF1FF>置</color></b>
+<b><color=#F3C7FF>退</color><color=#F9E3FF>出</color></b>
+<b><color=#F3C7FF>社</color><color=#F6D5FF>交</color><color=#F9E3FF>网</color><color=#FCF1FF>络</color></b>
+<b><color=#F3C7FF>❉ 网</color><color=#F9E3FF>络</color></b>
+<b><color=#F3C7FF>★ 收</color><color=#F9E3FF>藏</color></b>
+<b><color=#F3C7FF>✔️ 官</color><color=#F9E3FF>方</color></b>
+<b><color=#F3C7FF>➔ 历</color><color=#F9E3FF>史</color></b>
+<b><color=#F3C7FF>☻ 好</color><color=#F9E3FF>友</color></b>
+搜索服务器
+创建本地服务器
+快速重进
+IP直连
+刷新
+<b><color=#E6FFC7>隐</color><color=#E9FFCF>藏</color><color=#EDFFD7>无</color><color=#F0FFDF>人</color><color=#F4FFE7>服</color><color=#F7FFEF>务</color><color=#FBFFF7>器</color></b>
+<b><color=#E6FFC7>隐</color><color=#E9FFCF>藏</color><color=#EDFFD7>已</color><color=#F0FFDF>满</color><color=#F4FFE7>服</color><color=#F7FFEF>务</color><color=#FBFFF7>器</color></b>
+<b><color=#E6FFC7>无</color><color=#E9FFCF>白</color><color=#EDFFD7>名</color><color=#F0FFDF>单</color><color=#F4FFE7>服</color><color=#F7FFEF>务</color><color=#FBFFF7>器</color></b>
+\uf26c <b>视频</b>
+\uf130 <b>声音</b>
+\uf11c <b>控制</b>
+\uf11b <b>游戏</b>
+\uf05a <b>其它</b>
+窗口化模式
+全屏
+无边窗口化
+最大窗口化
+窗口化
+垂直同步
+FPS限制
+无限制
+图像质量
+贴花
+光影渲染
+阴影分辨率
+阴影距离
+动态模糊
+色彩校正
+抗锯齿
+光源渲染
+主音量
+音效
+语音聊天
+主菜单音乐
+界面音量
+主菜单主题
+加速介绍淡出速度
+视角摇晃
+切换奔跑模式
+显示精确血量
+状态展示
+公开战局
+切换拾取模式
+SCP-079 - 切换观察模式
+SCP-079 - 后处理
+语言
+主菜单样式
+连接
+<b>返回</b>
+此更改需要重新加载。\n是否立即重新加载主菜单?
+好的
+取消
+<b>您确定要退出吗?</b>
+屏幕分辨率
+隐藏IP地址
+欢迎回来, {username}！
+<b><color=#F3C7FF>演</color><color=#F6D5FF>职</color><color=#F9E3FF>员</color><color=#FCF1FF>表</color></b>
+<color=#FFA500FF>身份验证中</color>
+<b><color=#ADFFEF>连</color><color=#B3FFF0>接</color><color=#BAFFF1>状</color><color=#C1FFF3>态</color><color=#C8FFF4>信</color><color=#CFFFF5>息</color><color=#D6FFF7>│</color><color=#DCFFF8>正</color><color=#E3FFF9>在</color><color=#EAFFFB>连</color><color=#F1FFFC>接</color><color=#F8FFFD>中</color></b> \uf021
+<b><color=#ADFFBE>连</color><color=#B4FFC3>接</color><color=#BBFFC9>状</color><color=#C3FFCF>态</color><color=#CAFFD5>信</color><color=#D2FFDB>息</color><color=#D9FFE1>│</color><color=#E1FFE7>连</color><color=#E8FFED>接</color><color=#F0FFF3>成</color><color=#F7FFF9>功</color></b>✔️
+<b><color=#FFADAD>连</color><color=#FFB4B4>接</color><color=#FFBBBB>状</color><color=#FFC3C3>态</color><color=#FFCACA>信</color><color=#FFD2D2>息</color><color=#FFD9D9>│</color><color=#FFE1E1>连</color><color=#FFE8E8>接</color><color=#FFF0F0>失</color><color=#FFF7F7>败</color></b>❌\n<size=15>(请检查控制台查看具体原因\n大陆玩家请尝试使用网络代理、加速器等工具)</size></color>
+<b><color=#FFADAD>连</color><color=#FFB2B2>接</color><color=#FFB7B7>状</color><color=#FFBCBC>态</color><color=#FFC1C1>信</color><color=#FFC6C6>息</color><color=#FFCBCB>│</color><color=#FFD0D0>S</color><color=#FFD6D6>t</color><color=#FFDBDB>e</color><color=#FFE0E0>a</color><color=#FFE5E5>m</color><color=#FFEAEA>验</color><color=#FFEFEF>证</color><color=#FFF4F4>失</color><color=#FFF9F9>败</color></b>❌\n<size=15%>(请检查控制台查看具体原因)</color></size>
+<b><color=#FFADAD>连</color><color=#FFB1B1>接</color><color=#FFB6B6>状</color><color=#FFBABA>态</color><color=#FFBFBF>信</color><color=#FFC3C3>息</color><color=#FFC8C8>│</color><color=#FFCCCC>D</color><color=#FFD1D1>i</color><color=#FFD5D5>s</color><color=#FFDADA>c</color><color=#FFDFDF>o</color><color=#FFE3E3>r</color><color=#FFE8E8>d</color><color=#FFECEC>验</color><color=#FFF1F1>证</color><color=#FFF5F5>失</color><color=#FFFAFA>败</color></b>❌\n<size=15%>(请检查控制台查看具体原因)</color></size>
+关闭
+秒
+清理布娃娃(尸体)时间
+显示Steam个人档案
+允许玩家通过点击玩家列表上的图标来查看你的Steam个人档案。
+禁止跟踪(DNT)
+阻止服务器读取您的数据（IP地址、用户ID等）用于与服务器安全无关的目的。
+图像处理(Graphics)API
+目前游戏已不再对直接从游戏内创建的服务器进行维护,\n【仍然创建可能会产生游戏内的异常问题】。\n目前有3种方法可以创建SCP:SL服务器:\n-1. 您可以直接在Steam库中下载SCP:SL专用服务器(Steam AppID:996560)后在您电脑上运行它。\n-2. 您可以自行租用一个VPS(虚拟专用服务器)或在服务器供应商方租用运行SCP:SL专用服务器。\n-3. 您可以从支持SCP:SL的游戏服务器的供应商中租用SCP:SL服务器(如Terabit)\n\n点击下方的链接获取详情信息。\n您可以向我们的技术支持寻求帮助(在主菜单可以找到我们的Discord链接)。
+<b>仍然创建</b>
+查阅详情
+租用服务器
+取消
+秒
+感谢您游玩我们的游戏！
+阵营刷新时系统任务栏闪烁
+环境光遮蔽
+体积光
+Bloom
+开关字幕
+<b><color=#F3C7FF>操</color><color=#F6D5FF>作</color><color=#F9E3FF>指</color><color=#FCF1FF>南</color></b>
+租用服务器
+<size=60><color="red>光敏性警告：游玩前必读！</color></size>\n<size=36>有极少数人群暴露在特定光影图案或闪光光亮下时会引发癫痫。在电脑屏幕上观看特定图案或背景，或者玩电子游戏时，可能会引发这些人的癫痫发作。甚至没有癫痫病史的人，也可能诱发先前未被察觉的癫痫症状。\n\n如果您或您的家人曾有过癫痫病史，请在进行游戏前先咨询医生。如果您在游玩电子游戏过程中出现任何以下症状，包括头晕、目眩、眼部或肌肉抽搐、失去意识、失去方向感、出现任何自己无法控制的动作或抽搐，请立即停止游戏，并在继续本游戏前咨询您的医生。</size>
+按下任意按键继续
+不再显示
+<b><color=#F3C7FF>继</color><color=#F6D5FF>续</color><color=#F9E3FF>游</color><color=#FCF1FF>戏</color></b>
+<b><color=#F3C7FF>社</color><color=#F6D5FF>区</color><color=#F9E3FF>信</color><color=#FCF1FF>息</color></b>
+<b><color=#F3C7FF>断</color><color=#F6D5FF>开</color><color=#F9E3FF>连</color><color=#FCF1FF>接</color></b>

@@ -1,0 +1,10 @@
+<b>无</b>
+<b><color=#DDC6C6>钥</color><color=#E5D4D4>匙</color><color=#EEE2E2>卡</color><color=#F6F0F0></color></b>
+<b><color=#FE6767>医</color><color=#FE8D8D>疗</color><color=#FEB3B3>物</color><color=#FED9D9>品</color></b>
+<b><color=#91B1FD>对</color><color=#B5CBFD>讲</color><color=#DAE5FE>机</color></b>
+<b><color=#4258FF>枪</color><color=#A0ABFF>械</color></b>
+<b><color=#F0FE86>投</color><color=#F5FEAE>掷</color><color=#FAFED6>物</color></b>
+<b><color=#FF4242>S</color><color=#FF6767>C</color><color=#FF8D8D>P</color><color=#FFB3B3>项</color><color=#FFD9D9>目</color></b>
+<b><color=#75FFD1>特</color><color=#80F7DC>殊</color><color=#8CEFE8>武</color><color=#97E7F3>器</color></b>
+<b><color=#A8B3AF>弹</color><color=#D3D9D7>药</color></b>
+<b><color=#C9E4DD>防</color><color=#DBEDE8>弹</color><color=#EDF6F3>衣</color></b>

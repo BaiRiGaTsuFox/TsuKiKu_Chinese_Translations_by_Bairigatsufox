@@ -1,0 +1,22 @@
+{
+	"Name": "<b><color=#E1FF00>T</color><color=#D3FF00>s</color><color=#C6FF00>u</color><color=#B8FF00>K</color><color=#ABFF00>i</color><color=#9DFF00>K</color><color=#90FF00>u</color><color=#82FF00>简</color><color=#75FF00>体</color><color=#67FF00>中</color><color=#5AFF00>文</color></b>",
+	"Authors": [
+		"БあЙり.がつ 狐",
+		"QQID2133351392"
+
+	],
+	"InterfaceLocales": [
+		"zh-CN",
+		"zh-Hans",
+		"zh"
+	],
+	"SystemLocales": [
+		"zh-CN",
+		"zh-SG",
+		"zh-Hans",
+		"zh"
+	],
+	"ForcedFontOrder": [
+		"NotoSansCJKsc-RegularDynamic"
+	]
+}

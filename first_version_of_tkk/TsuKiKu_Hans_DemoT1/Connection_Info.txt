@@ -1,0 +1,10 @@
+\uf110 <color=#5DFEA3>连</color><color=#93FEC1>接</color><color=#C9FEE0>中</color>
+<color=#5DFEA3>正</color><color=#6FFEAD>在</color><color=#81FEB7>建</color><color=#93FEC1>立</color><color=#A5FECB>连</color><color=#B7FED6>接</color><color=#C9FEE0>.</color><color=#DBFEEA>.</color><color=#EDFEF4>.</color>
+\uf110 <color=#5D9BFE>正</color><color=#78ABFE>在</color><color=#93BCFE>重</color><color=#AECCFE>启</color><color=#C9DDFE>回</color><color=#E4EEFE>合</color>
+ <color=#5D9BFE>回</color><color=#6FA6FE>合</color><color=#81B1FE>正</color><color=#93BCFE>在</color><color=#A5C7FE>重</color><color=#B7D2FE>启</color><color=#C9DDFE>.</color><color=#DBE8FE>.</color><color=#EDF3FE>.</color>
+\uf110 <color=#5DFEA3>连</color><color=#93FEC1>接</color><color=#C9FEE0>中</color>
+<color=#5DFEA3>正</color><color=#6FFEAD>在</color><color=#81FEB7>加</color><color=#93FEC1>载</color><color=#A5FECB>关</color><color=#B7FED6>卡</color><color=#C9FEE0>.</color><color=#DBFEEA>.</color><color=#EDFEF4>.</color>
+\uf110 <color=#5DFEA3>连</color><color=#93FEC1>接</color><color=#C9FEE0>中</color>
+ <color=#5D9BFE>正</color><color=#68A2FE>在</color><color=#74A9FE>进</color><color=#7FB0FE>行</color><color=#8BB7FE>服</color><color=#96BEFE>务</color><color=#A2C5FE>器</color><color=#AECCFE>安</color><color=#B9D4FE>全</color><color=#C5DBFE>验</color><color=#D0E2FE>证</color><color=#DCE9FE>.</color><color=#E7F0FE>.</color><color=#F3F7FE>.</color>
+\uf110 <color=#F24A4A>断</color><color=#F46E6E>开</color><color=#F79292>连</color><color=#F9B6B6>接</color><color=#FCDADA>中</color>
+<color=#F24A4A>正</color><color=#F35A5A>在</color><color=#F46A6A>停</color><color=#F57B7B>止</color><color=#F68B8B>加</color><color=#F79C9C>载</color><color=#F9ACAC>设</color><color=#FABDBD>施</color><color=#FBCDCD>.</color><color=#FCDEDE>.</color><color=#FDEEEE>.</color>

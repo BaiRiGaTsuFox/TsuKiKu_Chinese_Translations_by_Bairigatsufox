@@ -1,0 +1,18 @@
+<color=#85C4FF>自定义 \uf121</color>
+<color=#85C4FF>预设 #[index] \uf15b</color>
+<color=#50DE47>保存 \uf019</color>
+<color=#FF4747>清</color><color=#FF5E5E>空</color><color=#FF7575>配</color><color=#FF8C8C>件</color><color=#FFA3A3>配</color><color=#FFBABA>置</color> <color=#FFE8E8>❌</color>
+<color=#85C4FF>默认配置 \uf15b</color>
+预 设
+<color=#FF4747><size=250>🔒</size></color>
+<color=#FF4747><size=300%>锁定中</size></color>\n<size=150%><color=#4ED6F9>-</color><color=#55D7F9>轻</color><color=#5DD9F9>触</color><color=#65DBF9>工</color><color=#6CDDFA>作</color><color=#74DEFA>站</color><color=#7CE0FA>屏</color><color=#83E2FA>幕</color><color=#8BE4FB>以</color><color=#93E6FB>解</color><color=#9AE7FB>锁</color><color=#A2E9FB>枪</color><color=#AAEBFC>械</color><color=#B2EDFC>配</color><color=#B9EEFC>件</color><color=#C1F0FC>自</color><color=#C9F2FD>定</color><color=#D0F4FD>义</color><color=#D8F6FD>工</color><color=#E0F7FD>作</color><color=#E7F9FE>站</color><color=#EFFBFE>-</color><color=#F7FDFE></color></size>
+<size=250%>🔒</size>
+<size=250%><b>载入中 . . .</b></size>
+<color=#0096FF><size=250>🔓</size></color>
+<color=#0096FF><size=300%>已解锁</size></color>\n<size=200%><i><color=#0096FF>-</color><color=#0F9CFF>轻</color><color=#1EA2FF>触</color><color=#2DA8FF>工</color><color=#3CAEFF>作</color><color=#4BB4FF>站</color><color=#5ABBFF>屏</color><color=#69C1FF>幕</color><color=#78C7FF>以</color><color=#87CDFF>配</color><color=#96D3FF>置</color><color=#A5D9FF>您</color><color=#B4E0FF>的</color><color=#C3E6FF>枪</color><color=#D2ECFF>械</color><color=#E1F2FF>-</color><color=#F0F8FF></color></i>
+<size=250%>🔓</size>
+<size=250%><b>关闭中 . . .</b></size>
+<b>显示概要 🔍</b>
+<b>关闭概要 🔍</b>
+[Attachment] 自定义
+\uf7d9 按下[Key]键进行配件改装

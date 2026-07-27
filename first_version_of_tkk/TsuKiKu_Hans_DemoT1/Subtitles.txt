@@ -1,0 +1,32 @@
+<b><color=#0096FFFF>MTF</color>-<color=#0096FFFF>Epsilon-11</color>-<color=#0096FFFF>[designation]</color>-已进入设施</b><split><b>幸存人员仍需遵循<color=#B4FFB3>撤离方案</color>，等待<color=#0096FF>MTF</color>小队找到并护送您离开</b><split>
+<b>设施内仍存在 [count] <color=#991900FF>高威胁SCP目标</color></b>
+<b>设施内仍存在 1 <color=#991900FF>高威胁SCP目标</color></b>
+<b>设施内SCP目标已清除，可能存在<color=#991900FF>潜在威胁</color></b>
+<b>已被成功消灭，死亡原因<i>不明</i></b>
+<b>已被 <color=#991900FF>SCP-[scp] </color>消灭</b>
+<b>已被<color=#556278FF>自动安保系统</color>成功消灭</b>
+<b>已被<color=#991900FF>Alpha核弹头</color>成功消灭</b>
+<b>已被<color=#FFFF7CFF>科学家</color>重新收容</b>
+<b>已被<color=#FF8000FF>D级人员</color>重新收容</b>
+<b>已被<color=#559101FF>混沌分裂者</color>重新收容</b>
+<b><color=#991900FF>SCP-[scp]</color></b>
+<b>已被成功收容，收容方式<i>不明</i></b>
+<b>已被成功收容，收容单位<color=#0096FFFF>[designation]</color></b>
+<b>迷失在<color=#325E31>轻收容区域净化</color>中</b>
+<b>某一处<color=#70C3FFFF>应急发电站</color>成功激活\n　　　　　　　　　　进度: [current] / [max]</b>
+<split><b>所有<color=#70C3FFFF>应急发电站</color>全部激活完毕</b>
+<b>即将过载设施电力 3...2...1...</b>
+<b>设施电力已恢复正常</b>
+<b>全体人员请注意</b><split><b><color=#325E31>轻收容区域净化</color>倒计时 - <color=#325E31>15 分钟</color></b><split><b>所有生物必须撤离，以防止造成<color=#991900FF>意外伤亡</color></b>
+<b>警告，<color=#325E31>轻收容区域净化</color>倒计时 - <color=#325E31>[time] 分钟</color></b>
+<b>警告，<color=#325E31>轻收容区域净化</color>倒计时 - <color=#FE9090>1 分钟</color></b>
+<b>警告，<color=#325E31>轻收容区域净化</color>倒计时 - <color=#FE9090>30 秒</color></b><split><b>该区域检查点已<color=#FE9090>永久开启</color>，请立即撤离</b>
+<b>注意，轻收容区域<color=#325E31>已封锁并执行净化</color></b><split><b>现在开始清除所有生物</b>
+<b>警告，核弹头<color=#991900FF>引爆程序</color>启动</b><split><b>设施地下区域将在<color=#991900FF> [time] 秒</color>后自毁</b>
+<b>警告，核弹头<color=#991900FF>引爆程序</color>取消</b>
+<b>警告，核弹头<color=#991900FF>引爆程序</color>重启 -<color=#991900FF> [time] 秒</color></b>
+<b>已被棉花糖人消灭</b>
+<b><color=#0096FFFF> NTF</color>-<color=#0096FFFF>增援部队</color>-已进入设施</b><split>
+<b>注意，侦测到 [number] <color=#559101FF>不明武装单位</color>进入A大门</b><split><b>已授权采取致命武力</b>
+<b>警告，再次侦测到 [number] <color=#559101FF>不明武装单位</color>进入A大门</b><split><b>防御模型 - 已更新</b>
+<b><color=#991900FF>站点恢复失败</color>——<color=#991900FF>终焉协议</color>已启动</b><split><b>本设施的地下区域将在倒计时 <color=#991900FF>[time] 秒</color>后自毁</b>
