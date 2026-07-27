@@ -5,6 +5,7 @@
 </p>
 
 <h1 align="center">TsuKiKu 月玖 中文翻译包</h1>
+ <h3 align="center">"这还是你熟悉的翻译包 只是更好了"</h3>
 
  <p align="center">
   <img src="./Assets/images/Logo/SCP_SL_LOGO.png" alt="logo" width="100">
