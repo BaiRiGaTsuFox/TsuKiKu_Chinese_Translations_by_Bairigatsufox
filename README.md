@@ -15,7 +15,7 @@
 
  <h3 align="center">Social Media</h3>
 <div align="center">
-![Static Badge](https://img.shields.io/badge/BiliBili-%E5%91%86%E7%8B%90%E5%91%86%E8%84%91-C7E5FF)
+![Static Badge](https://img.shields.io/badge/BiliBili-%E5%91%86%E7%8B%90%E5%91%86%E8%84%91-C7E5FF?style=flat)
 
 
 
