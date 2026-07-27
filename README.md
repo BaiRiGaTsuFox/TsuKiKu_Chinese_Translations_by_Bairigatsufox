@@ -36,7 +36,7 @@
 
 ## 如何实装？
 
-压缩包下载完毕后将其解压
+ 1️⃣ 压缩包下载完毕后将其解压
 
 ![步驟1](./Assets/images/how_to_use/How_to_use1.png)
 
