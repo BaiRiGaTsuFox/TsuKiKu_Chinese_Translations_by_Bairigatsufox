@@ -14,6 +14,7 @@
  <h1 align="center">By БあЙり.がつ 狐</h1>
 
  <h3 align="center">Social Media</h3>
-![Static Badge](https://img.shields.io/badge/BiliBili-BAIRIGATSUFOX-C7E5FF)
+<div align="center">
+[![bilibili](https://img.shields.io/badge/bilibili-九霄鵼冥Koumei-FF9EF0?style=flat)](https://space.bilibili.com/173589887)
 
 
