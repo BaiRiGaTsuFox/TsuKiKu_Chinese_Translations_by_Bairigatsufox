@@ -15,6 +15,7 @@
 
  <h3 align="center">Social Media</h3>
 <div align="center">
-[![bilibili](https://img.shields.io/badge/bilibili-九霄鵼冥Koumei-FF9EF0?style=flat)](https://space.bilibili.com/173589887)
+![Static Badge](https://img.shields.io/badge/BiliBili-%E5%91%86%E7%8B%90%E5%91%86%E8%84%91-C7E5FF)
+
 
 
