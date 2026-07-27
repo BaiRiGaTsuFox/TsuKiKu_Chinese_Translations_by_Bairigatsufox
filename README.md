@@ -29,6 +29,6 @@
 
 本翻译包前身为 "zh_Hans-FLASH 系列翻译包" ，该系列翻译包最初基于 BiliBili 的 UP 主 @是闪闪闪闪闪 所创作的 "zh_HansFlashDemo 系列翻译包" 14.0 版本以前的文本改进，且已进过 UP 主的许可。 "zh_Hans-FLASH 系列翻译包" 与 秋叶社区 曾有合作关系，社区解散后停止与本人更新该系列，后于本人重新制作新版翻译包。此系列翻译包已与其无关系。
 
-[了解详细说明]
+[了解详细说明](https://github.com/BaiRiGaTsuFox/TsuKiKu_Chinese_Translations_by_Bairigatsufox/tree/main?tab=License-1-ov-file)
 
 
