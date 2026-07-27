@@ -34,9 +34,27 @@
 
 <br>
 
+## 注意
+
+本翻译包现处于 Demo 第 2 次测试阶段，可能存在许多富文本错误的地方。如果您遇到这类情况，建议您进行反馈 issues 。
+
+<br>
+
 ## 如何实装？
 
- 1️⃣ 压缩包下载完毕后将其解压
+1️⃣ 压缩包下载完毕后将其使用 WinRAR 或 7zip 解压
 
-![步驟1](./Assets/images/how_to_use/How_to_use1.png)
+![步骤1](./Assets/images/how_to_use/How_to_use1.png)
+
+<br>
+
+2️⃣ 在 README.txt 文件中复制密码并解压
+
+![步骤2](./Assets/images/how_to_use/How_to_use2.png)
+
+<br>
+
+3️⃣ 打开您的 Steam ，找到 《SCP 秘密实验室》 ，然后依次点开右侧齿轮 -> 管理 -> 浏览本地文件
+
+![步骤3](./Assets/images/how_to_use/How_to_use3.png)
 
