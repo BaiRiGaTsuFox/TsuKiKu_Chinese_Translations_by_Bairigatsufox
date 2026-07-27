@@ -31,4 +31,8 @@
 
 [了解详细说明](https://github.com/BaiRiGaTsuFox/TsuKiKu_Chinese_Translations_by_Bairigatsufox/tree/main?tab=License-1-ov-file)
 
+## 如何实装？
+
+
+
 
