@@ -4,5 +4,5 @@
   <img src="./Assets/images/Logo/TsuKiKu_Logo.jpg" alt="logo" width="400">
 </p>
 
-<h1 align="center"><span style="color:#C7E5FF;font-weight:bold;">TsuKiKu</span> 中文翻译包</h1>
+<h1 align="center">TsuKiKu 月玖 中文翻译包</h1>
  
