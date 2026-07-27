@@ -1,2 +1,5 @@
-# TsuKiKu_Chinese_Translations_by_Bairigatsufox
-A Chinese Translations Pack for SCP: Secret Laboratory
+
+
+<p align="center">
+  <img src="./Assets/images/Logo/TsuKiKu_Logo.jpg" alt="logo" width="400">
+</p>
