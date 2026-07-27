@@ -17,7 +17,9 @@
  
 <div align="center">
   
-[![Static Badge](https://img.shields.io/badge/BiliBili-%E5%91%86%E7%8B%90%E5%91%86%E8%84%91-C7E5FF?style=flat)](https://space.bilibili.com/519921295)
+[![BiliBili](https://img.shields.io/badge/BiliBili-%E5%91%86%E7%8B%90%E5%91%86%E8%84%91-C7E5FF?style=flat)](https://space.bilibili.com/519921295)
+![Static Badge](https://img.shields.io/badge/QQ%E5%8F%8D%E9%A6%88-2133351392-C7E5FF)
+
 
 </div>
 
