@@ -58,3 +58,20 @@
 
 ![步骤3](./Assets/images/how_to_use/How_to_use3.png)
 
+<br>
+
+4️⃣ 找到 Translations 文件夹
+
+![步骤4](./Assets/images/how_to_use/How_to_use4.png)
+
+<br>
+
+5️⃣ 将解压完毕后的文件夹拖入该目录中
+
+![步骤5](./Assets/images/how_to_use/How_to_use5.png)
+
+<br>
+
+6️⃣ 打开游戏，在游戏设置 -> 界面 -> 界面语言中选中 TsuKiKu 简体中文并重启游戏即可
+
+![步骤6](./Assets/images/how_to_use/How_to_use6.png)
