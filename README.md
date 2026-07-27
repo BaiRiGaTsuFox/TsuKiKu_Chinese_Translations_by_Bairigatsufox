@@ -14,5 +14,6 @@
  <h1 align="center">By БあЙり.がつ 狐</h1>
 
  <h3 align="center">Social Media</h3>
-[![bilibili](https://<img alt="Static Badge" src="https://img.shields.io/badge/BiliBili-%E5%91%86%E7%8B%90%E5%91%86%E8%84%91-C7E5FF">)](https://space.bilibili.com/173589887)
+[![BiliBili](https://img.shields.io/badge/BiliBili-%E5%91%86%E7%8B%90%E5%91%86%E8%84%91-C7E5FF)](https://space.bilibili.com/519921295)
+
 
