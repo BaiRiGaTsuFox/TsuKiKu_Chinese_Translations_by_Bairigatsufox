@@ -8,3 +8,9 @@
 
 
  <p align="center">Made by БあЙり.がつ 狐</p>
+ 
+ <p align="center">
+  <img src="./Assets/images/Logo/TsuKiKu_Logo.jpg" alt="logo" width="400">
+</p>
+
+ <p align="center">SCP: Secret Laboratory</p>
