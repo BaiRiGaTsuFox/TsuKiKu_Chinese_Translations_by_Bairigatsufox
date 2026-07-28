@@ -138,3 +138,38 @@
     <img src="https://github.com/BaiRiGaTsuFox/TsuKiKu_Chinese_Translations_by_Bairigatsufox/blob/MainVersion/Assets/images/demo/aw.png?raw=true" alt="核弹头" width="49%">
     <img src="https://github.com/BaiRiGaTsuFox/TsuKiKu_Chinese_Translations_by_Bairigatsufox/blob/MainVersion/Assets/images/demo/scpcantained.png?raw=true" alt="SCP收容" width="49%">
    </p>
+
+<br>
+
+   --> 介绍优化 介绍作用以及效果
+
+  <p align="center">
+    <img src="https://github.com/BaiRiGaTsuFox/TsuKiKu_Chinese_Translations_by_Bairigatsufox/blob/MainVersion/Assets/images/demo/item1.png?raw=true" alt="道具1" width="49%">
+    <img src="https://github.com/BaiRiGaTsuFox/TsuKiKu_Chinese_Translations_by_Bairigatsufox/blob/MainVersion/Assets/images/demo/item2.png?raw=true" alt="道具2" width="49%">
+   </p>
+
+  <p align="center">
+    <img src="https://github.com/BaiRiGaTsuFox/TsuKiKu_Chinese_Translations_by_Bairigatsufox/blob/MainVersion/Assets/images/demo/item3.png?raw=true" alt="道具3" width="49%">
+    <img src="https://github.com/BaiRiGaTsuFox/TsuKiKu_Chinese_Translations_by_Bairigatsufox/blob/MainVersion/Assets/images/demo/item4.png?raw=true" alt="道具4" width="49%">
+   </p>
+
+  <p align="center">
+    <img src="https://github.com/BaiRiGaTsuFox/TsuKiKu_Chinese_Translations_by_Bairigatsufox/blob/MainVersion/Assets/images/demo/cd1.png?raw=true" alt="糖果1" width="49%">
+    <img src="https://github.com/BaiRiGaTsuFox/TsuKiKu_Chinese_Translations_by_Bairigatsufox/blob/MainVersion/Assets/images/demo/cd2.png?raw=true" alt="糖果2" width="49%">
+   </p>
+
+   <br>
+
+   --> 部分 SCP 的 GUI  改进视觉体验
+
+   > _注意！该优化参考了部分翻译包_
+
+  <p align="center">
+    <img src="https://github.com/BaiRiGaTsuFox/TsuKiKu_Chinese_Translations_by_Bairigatsufox/blob/MainVersion/Assets/images/demo/079face1.png?raw=true" alt="079-1" width="49%">
+    <img src="https://github.com/BaiRiGaTsuFox/TsuKiKu_Chinese_Translations_by_Bairigatsufox/blob/MainVersion/Assets/images/demo/079face2.png?raw=true" alt="079-2" width="49%">
+   </p>
+
+  <p align="center">
+    <img src="https://github.com/BaiRiGaTsuFox/TsuKiKu_Chinese_Translations_by_Bairigatsufox/blob/MainVersion/Assets/images/demo/079face3.png?raw=true" alt="079-3" width="49%">
+    <img src="https://github.com/BaiRiGaTsuFox/TsuKiKu_Chinese_Translations_by_Bairigatsufox/blob/MainVersion/Assets/images/demo/079face4.png?raw=true" alt="079-4" width="49%">
+   </p>
