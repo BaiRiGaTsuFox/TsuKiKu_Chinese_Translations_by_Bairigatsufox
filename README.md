@@ -84,6 +84,8 @@
 
 主界面演示
 
+> _注意！演示时的版本为 TsuKiKu_Hans_DemoT2 版本_
+
    <p align="center">
     <img src="https://github.com/BaiRiGaTsuFox/TsuKiKu_Chinese_Translations_by_Bairigatsufox/blob/MainVersion/Assets/images/demo/MainMenu1.png?raw=true" alt="重生1" width="49%">
     <img src="https://github.com/BaiRiGaTsuFox/TsuKiKu_Chinese_Translations_by_Bairigatsufox/blob/MainVersion/Assets/images/demo/MainMenu2.png?raw=true" alt="重生2" width="49%">
