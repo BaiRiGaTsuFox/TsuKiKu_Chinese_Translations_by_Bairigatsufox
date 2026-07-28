@@ -14,7 +14,7 @@
  <h3 align="center">Made With SCP: Secret Laboratory</h3>
  <h1 align="center">By БあЙり.がつ 狐 ✨</h1>
 
- <h3 align="center">Social Media</h3>
+ <h3 align="center">📱 Social Media 📱</h3>
  
 <div align="center">
   
