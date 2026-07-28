@@ -192,6 +192,6 @@
 <h3 align="center">感谢你的支持 <3 </h3>
 <h4 align="center">希望你有良好的体验!</h4>
 
-<img src="https://github.com/KoumeiKyuushou/SCP-SL-Custom-Chinese-Translation-Files-by-Koumei-Kyuushou/blob/穩定版/Assets/ainime/gongichaa_東方project二次創作.jpg?raw=true" 
+<img src="https://github.com/BaiRiGaTsuFox/TsuKiKu_Chinese_Translations_by_Bairigatsufox/blob/MainVersion/Assets/images/image/20260505_123834..jpg?raw=true" 
      align="left" 
      width="400">
