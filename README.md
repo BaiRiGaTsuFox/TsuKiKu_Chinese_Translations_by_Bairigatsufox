@@ -200,5 +200,10 @@
 
 <img src="https://github.com/BaiRiGaTsuFox/TsuKiKu_Chinese_Translations_by_Bairigatsufox/blob/MainVersion/Assets/gifs/Image_1785239582599_667..gif?raw=true" 
      align="right" 
-     width="300">
+     width="100">
+
+ <h3 align="center">БあЙり.がつ 狐</h3>
+ <h3 align="center">2133351392</h3>
+
+ _2026年7月28日 最后一次编辑_
 
