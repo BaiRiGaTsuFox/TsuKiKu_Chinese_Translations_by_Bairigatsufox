@@ -79,3 +79,13 @@
 ## 演示
 
 > _仅截取部分演示，实机画面请安装后体验_
+
+<br>
+
+主界面演示
+
+   <p align="center">
+    <img src="https://github.com/KoumeiKyuushou/SCP-SL-Custom-Chinese-Translation-Files-by-Koumei-Kyuushou/blob/穩定版/Assets/Features/重生1.png?raw=true" alt="重生1" width="49%">
+    <img src="https://github.com/KoumeiKyuushou/SCP-SL-Custom-Chinese-Translation-Files-by-Koumei-Kyuushou/blob/穩定版/Assets/Features/重生2.png?raw=true" alt="重生2" width="49%">
+   </p>
+
