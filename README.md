@@ -12,7 +12,7 @@
 </p>
 
  <h3 align="center">Made With SCP: Secret Laboratory</h3>
- <h1 align="center">By БあЙり.がつ 狐</h1>
+ <h1 align="center">By БあЙり.がつ 狐 ✨</h1>
 
  <h3 align="center">Social Media</h3>
  
@@ -24,7 +24,7 @@
 
 </div>
 
-# 使用前须知
+# ⚠️ 使用前须知 ⚠️
 
 ## 说明
 
@@ -34,13 +34,13 @@
 
 <br>
 
-## 注意
+## ⚠️ 注意 ⚠️
 
 本翻译包现处于 Demo 第 2 次测试阶段，可能存在许多富文本错误的地方。如果您遇到这类情况，建议您进行反馈 issues 。
 
 <br>
 
-## 如何实装？
+## 📖 如何实装？ 📖
 
 1️⃣ 压缩包下载完毕后将其使用 WinRAR 或 7zip 解压
 
@@ -76,13 +76,13 @@
 
 ![步骤6](./Assets/images/how_to_use/How_to_use6.png)
 
-## 演示
+## 🎯 演示 🎯
 
 > _仅截取部分演示，实机画面请安装后体验_
 
 <br>
 
-主界面演示
+--> 主界面演示
 
 > _注意！演示时的版本为 TsuKiKu_Hans_DemoT2 版本_
 
