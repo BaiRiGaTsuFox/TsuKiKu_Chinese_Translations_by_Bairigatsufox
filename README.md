@@ -130,11 +130,11 @@
    </p>
 
   <p align="center">
-    <img src="https://github.com/BaiRiGaTsuFox/TsuKiKu_Chinese_Translations_by_Bairigatsufox/blob/MainVersion/Assets/images/demo/mtfspwan.png?raw=true" alt="九尾狐刷新" width="49%">
+    <img src="https://github.com/BaiRiGaTsuFox/TsuKiKu_Chinese_Translations_by_Bairigatsufox/blob/MainVersion/Assets/images/demo/mtfspawn.png?raw=true" alt="九尾狐刷新" width="49%">
     <img src="https://github.com/BaiRiGaTsuFox/TsuKiKu_Chinese_Translations_by_Bairigatsufox/blob/MainVersion/Assets/images/demo/cispwan.png?raw=true" alt="混沌刷新" width="49%">
    </p>
 
    <p align="center">
     <img src="https://github.com/BaiRiGaTsuFox/TsuKiKu_Chinese_Translations_by_Bairigatsufox/blob/MainVersion/Assets/images/demo/aw.png?raw=true" alt="核弹头" width="49%">
-    <img src="https://github.com/BaiRiGaTsuFox/TsuKiKu_Chinese_Translations_by_Bairigatsufox/blob/MainVersion/Assets/images/demo/scpcontained.png?raw=true" alt="SCP收容" width="49%">
+    <img src="https://github.com/BaiRiGaTsuFox/TsuKiKu_Chinese_Translations_by_Bairigatsufox/blob/MainVersion/Assets/images/demo/scpcantained.png?raw=true" alt="SCP收容" width="49%">
    </p>
