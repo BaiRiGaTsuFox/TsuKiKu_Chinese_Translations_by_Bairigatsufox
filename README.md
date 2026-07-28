@@ -198,4 +198,7 @@
 
 <br>
 
+<img src="https://github.com/BaiRiGaTsuFox/TsuKiKu_Chinese_Translations_by_Bairigatsufox/blob/MainVersion/Assets/gifs/Image_1785239582599_667..gif?raw=true" 
+     align="right" 
+     width="300">
 
