@@ -92,3 +92,6 @@
     <img src="https://github.com/BaiRiGaTsuFox/TsuKiKu_Chinese_Translations_by_Bairigatsufox/blob/MainVersion/Assets/images/demo/MainMenu2.png?raw=true" alt="重生2" width="49%">
    </p>
 
+<br>
+
+--> 
