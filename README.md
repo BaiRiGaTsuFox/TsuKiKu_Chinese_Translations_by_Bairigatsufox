@@ -1,7 +1,7 @@
 
 
 <p align="center">
-  <img src="./Assets/images/Logo/TsuKiKu_Logo.jpg" alt="logo" width="400">
+  <img src="./Assets/images/Logo/Logo_New.jpg" alt="logo" width="400">
 </p>
 
  <h3 align="center">"这还是你熟悉的翻译包 只是更好了"</h3>
