@@ -97,12 +97,12 @@
 --> 出生时演示 直接交代任务，可视度更多
 
    <p align="center">
-    <img src="https://github.com/BaiRiGaTsuFox/TsuKiKu_Chinese_Translations_by_Bairigatsufox/blob/MainVersion/Assets/images/demo/spwan1.png?raw=true" alt="出生1" width="49%">
-    <img src="https://github.com/BaiRiGaTsuFox/TsuKiKu_Chinese_Translations_by_Bairigatsufox/blob/MainVersion/Assets/images/demo/spwan2.png?raw=true" alt="出生2" width="49%">
+    <img src="https://github.com/BaiRiGaTsuFox/TsuKiKu_Chinese_Translations_by_Bairigatsufox/blob/MainVersion/Assets/images/demo/spawn1.png?raw=true" alt="出生1" width="49%">
+    <img src="https://github.com/BaiRiGaTsuFox/TsuKiKu_Chinese_Translations_by_Bairigatsufox/blob/MainVersion/Assets/images/demo/spawn2.png?raw=true" alt="出生2" width="49%">
    </p>
 
   <p align="center">
-    <img src="https://github.com/BaiRiGaTsuFox/TsuKiKu_Chinese_Translations_by_Bairigatsufox/blob/MainVersion/Assets/images/demo/spwan3.png?raw=true" alt="出生3" width="49%">
+    <img src="https://github.com/BaiRiGaTsuFox/TsuKiKu_Chinese_Translations_by_Bairigatsufox/blob/MainVersion/Assets/images/demo/spawn3.png?raw=true" alt="出生3" width="49%">
     <img src="https://github.com/BaiRiGaTsuFox/TsuKiKu_Chinese_Translations_by_Bairigatsufox/blob/MainVersion/Assets/images/demo/spwan4.png?raw=true" alt="出生3" width="49%">
    </p>
 
