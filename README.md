@@ -106,4 +106,35 @@
     <img src="https://github.com/BaiRiGaTsuFox/TsuKiKu_Chinese_Translations_by_Bairigatsufox/blob/MainVersion/Assets/images/demo/spwan4.png?raw=true" alt="出生3" width="49%">
    </p>
 
+ <br>
 
+   --> 重生时演示 隐藏级别，降低视野遮挡
+
+  <p align="center">
+    <img src="https://github.com/BaiRiGaTsuFox/TsuKiKu_Chinese_Translations_by_Bairigatsufox/blob/MainVersion/Assets/images/demo/respwan1.png?raw=true" alt="重生1" width="49%">
+    <img src="https://github.com/BaiRiGaTsuFox/TsuKiKu_Chinese_Translations_by_Bairigatsufox/blob/MainVersion/Assets/images/demo/respwan2.png?raw=true" alt="重生2" width="49%">
+   </p>
+
+  <p align="center">
+    <img src="https://github.com/BaiRiGaTsuFox/TsuKiKu_Chinese_Translations_by_Bairigatsufox/blob/MainVersion/Assets/images/demo/respwan3.png?raw=true" alt="重生3" width="49%">
+    <img src="https://github.com/BaiRiGaTsuFox/TsuKiKu_Chinese_Translations_by_Bairigatsufox/blob/MainVersion/Assets/images/demo/respwan4.png?raw=true" alt="重生4" width="49%">
+   </p>
+
+ <br>
+
+   --> 广播演示 优化C.A.S.S.I.E.广播，快速预览信息
+
+  <p align="center">
+    <img src="https://github.com/BaiRiGaTsuFox/TsuKiKu_Chinese_Translations_by_Bairigatsufox/blob/MainVersion/Assets/images/demo/dms.png?raw=true" alt="终焉程序" width="49%">
+    <img src="https://github.com/BaiRiGaTsuFox/TsuKiKu_Chinese_Translations_by_Bairigatsufox/blob/MainVersion/Assets/images/demo/decm.png?raw=true" alt="净化程序" width="49%">
+   </p>
+
+  <p align="center">
+    <img src="https://github.com/BaiRiGaTsuFox/TsuKiKu_Chinese_Translations_by_Bairigatsufox/blob/MainVersion/Assets/images/demo/mtfspwan.png?raw=true" alt="九尾狐刷新" width="49%">
+    <img src="https://github.com/BaiRiGaTsuFox/TsuKiKu_Chinese_Translations_by_Bairigatsufox/blob/MainVersion/Assets/images/demo/cispwan.png?raw=true" alt="混沌刷新" width="49%">
+   </p>
+
+   <p align="center">
+    <img src="https://github.com/BaiRiGaTsuFox/TsuKiKu_Chinese_Translations_by_Bairigatsufox/blob/MainVersion/Assets/images/demo/aw.png?raw=true" alt="核弹头" width="49%">
+    <img src="https://github.com/BaiRiGaTsuFox/TsuKiKu_Chinese_Translations_by_Bairigatsufox/blob/MainVersion/Assets/images/demo/scpcontained.png?raw=true" alt="SCP收容" width="49%">
+   </p>
