@@ -76,6 +76,6 @@
 
 ![步骤6](./Assets/images/how_to_use/How_to_use6.png)
 
-## 显著特点
+## 演示
 
 > _仅截取部分演示，实机画面请安装后体验_
