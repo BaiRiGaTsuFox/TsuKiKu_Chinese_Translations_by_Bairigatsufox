@@ -83,15 +83,27 @@
 
 <br>
 
---> 主界面演示
+--> 主界面演示 更加丝滑舒适
 
-> _注意！演示时的版本为 TsuKiKu_Hans_DemoT2 版本_
+> _注意！所有演示的的图片版本为 TsuKiKu_Hans_DemoT2 版本_
 
    <p align="center">
-    <img src="https://github.com/BaiRiGaTsuFox/TsuKiKu_Chinese_Translations_by_Bairigatsufox/blob/MainVersion/Assets/images/demo/MainMenu1.png?raw=true" alt="重生1" width="49%">
-    <img src="https://github.com/BaiRiGaTsuFox/TsuKiKu_Chinese_Translations_by_Bairigatsufox/blob/MainVersion/Assets/images/demo/MainMenu2.png?raw=true" alt="重生2" width="49%">
+    <img src="https://github.com/BaiRiGaTsuFox/TsuKiKu_Chinese_Translations_by_Bairigatsufox/blob/MainVersion/Assets/images/demo/MainMenu1.png?raw=true" alt="菜单1" width="49%">
+    <img src="https://github.com/BaiRiGaTsuFox/TsuKiKu_Chinese_Translations_by_Bairigatsufox/blob/MainVersion/Assets/images/demo/MainMenu2.png?raw=true" alt="菜单2" width="49%">
    </p>
 
 <br>
 
---> 
+--> 出生时演示 直接交代任务，可视度更多
+
+   <p align="center">
+    <img src="https://github.com/BaiRiGaTsuFox/TsuKiKu_Chinese_Translations_by_Bairigatsufox/blob/MainVersion/Assets/images/demo/spwan1.png?raw=true" alt="出生1" width="49%">
+    <img src="https://github.com/BaiRiGaTsuFox/TsuKiKu_Chinese_Translations_by_Bairigatsufox/blob/MainVersion/Assets/images/demo/spwan2.png?raw=true" alt="出生2" width="49%">
+   </p>
+
+  <p align="center">
+    <img src="https://github.com/BaiRiGaTsuFox/TsuKiKu_Chinese_Translations_by_Bairigatsufox/blob/MainVersion/Assets/images/demo/spwan3.png?raw=true" alt="出生3" width="49%">
+    <img src="https://github.com/BaiRiGaTsuFox/TsuKiKu_Chinese_Translations_by_Bairigatsufox/blob/MainVersion/Assets/images/demo/spwan4.png?raw=true" alt="出生3" width="49%">
+   </p>
+
+
