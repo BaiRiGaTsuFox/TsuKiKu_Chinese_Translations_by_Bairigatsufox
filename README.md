@@ -173,3 +173,21 @@
     <img src="https://github.com/BaiRiGaTsuFox/TsuKiKu_Chinese_Translations_by_Bairigatsufox/blob/MainVersion/Assets/images/demo/079face3.png?raw=true" alt="079-3" width="49%">
     <img src="https://github.com/BaiRiGaTsuFox/TsuKiKu_Chinese_Translations_by_Bairigatsufox/blob/MainVersion/Assets/images/demo/079face4.png?raw=true" alt="079-4" width="49%">
    </p>
+
+<br>
+
+## 🛜 中国大陆用户网络问题 🛜
+如果您很难或无法访问 GitHub ，目前有两种方法可以获取压缩包
+
+1️⃣ 加入我们的 QQ 交流群 **683919025** ，许可为 **20260725** 
+
+2️⃣ 使用加速器或相关 **VPN** 软件访问
+
+<br>
+
+-------------------------------------------------------------
+
+<br>
+
+<h3 align="center">感谢你的支持 <3 </h3>
+<h4 align="center">希望你有良好的体验!</h4>
