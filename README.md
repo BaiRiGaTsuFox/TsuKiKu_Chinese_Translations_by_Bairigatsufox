@@ -1,4 +1,5 @@
-
+<details>
+ <summary><b>中文(简体）</b></summary>
 
 <p align="center">
   <img src="./Assets/images/Logo/TsuKiKu_Logo_New_White_back.jpg" alt="logo" width="400">
