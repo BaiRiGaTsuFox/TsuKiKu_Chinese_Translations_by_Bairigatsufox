@@ -77,9 +77,7 @@
 
 <br>
 
---> 主界面演示 更加丝滑舒适
-
-> _注意！所有演示的的图片版本为 TsuKiKu_Hans_DemoT2 版本_
+--> 主界面演示 
 
    <p align="center">
     <img src="https://github.com/BaiRiGaTsuFox/TsuKiKu_Chinese_Translations_by_Bairigatsufox/blob/MainVersion/Assets/images/demo/MainMenu1.png?raw=true" alt="菜单1" width="49%">
@@ -88,7 +86,7 @@
 
 <br>
 
---> 出生时演示 直接交代任务，可视度更多
+--> 出生时演示 
 
    <p align="center">
     <img src="https://github.com/BaiRiGaTsuFox/TsuKiKu_Chinese_Translations_by_Bairigatsufox/blob/MainVersion/Assets/images/demo/spwan1.png?raw=true" alt="出生1" width="49%">
@@ -102,7 +100,7 @@
 
  <br>
 
-   --> 重生时演示 隐藏级别，降低视野遮挡
+   --> 重生时演示
 
   <p align="center">
     <img src="https://github.com/BaiRiGaTsuFox/TsuKiKu_Chinese_Translations_by_Bairigatsufox/blob/MainVersion/Assets/images/demo/respawn1.png?raw=true" alt="重生1" width="49%">
@@ -116,7 +114,7 @@
 
  <br>
 
-   --> 广播演示 优化C.A.S.S.I.E.广播，快速预览信息
+   --> 广播演示
 
   <p align="center">
     <img src="https://github.com/BaiRiGaTsuFox/TsuKiKu_Chinese_Translations_by_Bairigatsufox/blob/MainVersion/Assets/images/demo/dms.png?raw=true" alt="终焉程序" width="49%">
@@ -135,7 +133,7 @@
 
 <br>
 
-   --> 介绍优化 介绍作用以及效果
+   --> 介绍优化 
 
   <p align="center">
     <img src="https://github.com/BaiRiGaTsuFox/TsuKiKu_Chinese_Translations_by_Bairigatsufox/blob/MainVersion/Assets/images/demo/item1.png?raw=true" alt="道具1" width="49%">
@@ -154,7 +152,7 @@
 
    <br>
 
-   --> 部分 SCP 的 GUI  改进视觉体验
+   --> 部分 SCP 的 GUI 改进视觉体验
 
    > _注意！该优化参考了部分翻译包_
 
@@ -231,13 +229,11 @@ The "zh_Hans-FLASH series translation packs" previously collaborated with QiuYe(
 
 ## 🎯 Demo 🎯
 
-> _仅截取部分演示，实机画面请安装后体验_
+> _Demo only for partial content_
 
 <br>
 
---> 主界面演示 更加丝滑舒适
-
-> _注意！所有演示的的图片版本为 TsuKiKu_Hans_DemoT2 版本_
+--> Main Interface Demo
 
    <p align="center">
     <img src="https://github.com/BaiRiGaTsuFox/TsuKiKu_Chinese_Translations_by_Bairigatsufox/blob/MainVersion/Assets/images/demo/MainMenu1.png?raw=true" alt="菜单1" width="49%">
@@ -246,7 +242,7 @@ The "zh_Hans-FLASH series translation packs" previously collaborated with QiuYe(
 
 <br>
 
---> 出生时演示 直接交代任务，可视度更多
+--> Spawn Demo
 
    <p align="center">
     <img src="https://github.com/BaiRiGaTsuFox/TsuKiKu_Chinese_Translations_by_Bairigatsufox/blob/MainVersion/Assets/images/demo/spwan1.png?raw=true" alt="出生1" width="49%">
@@ -260,7 +256,7 @@ The "zh_Hans-FLASH series translation packs" previously collaborated with QiuYe(
 
  <br>
 
-   --> 重生时演示 隐藏级别，降低视野遮挡
+   --> Respawn Demo
 
   <p align="center">
     <img src="https://github.com/BaiRiGaTsuFox/TsuKiKu_Chinese_Translations_by_Bairigatsufox/blob/MainVersion/Assets/images/demo/respawn1.png?raw=true" alt="重生1" width="49%">
@@ -274,7 +270,7 @@ The "zh_Hans-FLASH series translation packs" previously collaborated with QiuYe(
 
  <br>
 
-   --> 广播演示 优化C.A.S.S.I.E.广播，快速预览信息
+   --> Broadcast Demo
 
   <p align="center">
     <img src="https://github.com/BaiRiGaTsuFox/TsuKiKu_Chinese_Translations_by_Bairigatsufox/blob/MainVersion/Assets/images/demo/dms.png?raw=true" alt="终焉程序" width="49%">
@@ -293,8 +289,7 @@ The "zh_Hans-FLASH series translation packs" previously collaborated with QiuYe(
 
 <br>
 
-   --> 介绍优化 介绍作用以及效果
-
+   --> Introduction Optimization
   <p align="center">
     <img src="https://github.com/BaiRiGaTsuFox/TsuKiKu_Chinese_Translations_by_Bairigatsufox/blob/MainVersion/Assets/images/demo/item1.png?raw=true" alt="道具1" width="49%">
     <img src="https://github.com/BaiRiGaTsuFox/TsuKiKu_Chinese_Translations_by_Bairigatsufox/blob/MainVersion/Assets/images/demo/item2.png?raw=true" alt="道具2" width="49%">
@@ -312,9 +307,7 @@ The "zh_Hans-FLASH series translation packs" previously collaborated with QiuYe(
 
    <br>
 
-   --> 部分 SCP 的 GUI  改进视觉体验
-
-   > _注意！该优化参考了部分翻译包_
+   --> Visual Improvements
 
   <p align="center">
     <img src="https://github.com/BaiRiGaTsuFox/TsuKiKu_Chinese_Translations_by_Bairigatsufox/blob/MainVersion/Assets/images/demo/079face1.png?raw=true" alt="079-1" width="49%">
@@ -325,15 +318,6 @@ The "zh_Hans-FLASH series translation packs" previously collaborated with QiuYe(
     <img src="https://github.com/BaiRiGaTsuFox/TsuKiKu_Chinese_Translations_by_Bairigatsufox/blob/MainVersion/Assets/images/demo/079face3.png?raw=true" alt="079-3" width="49%">
     <img src="https://github.com/BaiRiGaTsuFox/TsuKiKu_Chinese_Translations_by_Bairigatsufox/blob/MainVersion/Assets/images/demo/079face4.png?raw=true" alt="079-4" width="49%">
    </p>
-
-<br>
-
-## 🛜 中国大陆用户网络问题 🛜
-如果您很难或无法访问 GitHub ，目前有两种方法可以获取压缩包
-
-1️⃣ 加入我们的 QQ 交流群 **683919025** ，许可为 **20260725** 
-
-2️⃣ 使用加速器或相关 **VPN** 软件访问
 
 <br>
 
