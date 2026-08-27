@@ -22,7 +22,7 @@
 
 </div>
 
-# Supports ZH EN RU ✨
+# Supports ZH EN ✨
 
 <details>
  <summary><b>简 体 中 文 (ZH)</b></summary>
